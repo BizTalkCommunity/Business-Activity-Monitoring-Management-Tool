@@ -1,0 +1,10 @@
+C:\DEV\More Tools\BAMGUI\BAMGUI\bin\Debug\BAMGUI.exe.config
+C:\DEV\More Tools\BAMGUI\BAMGUI\bin\Debug\BAMGUI.exe
+C:\DEV\More Tools\BAMGUI\BAMGUI\bin\Debug\BAMGUI.pdb
+C:\DEV\More Tools\BAMGUI\BAMGUI\obj\Debug\BAMGUI.Form1.resources
+C:\DEV\More Tools\BAMGUI\BAMGUI\obj\Debug\BAMGUI.Properties.Resources.resources
+C:\DEV\More Tools\BAMGUI\BAMGUI\obj\Debug\BAMGUI.csproj.GenerateResource.cache
+C:\DEV\More Tools\BAMGUI\BAMGUI\obj\Debug\BAMGUI.csproj.CoreCompileInputs.cache
+C:\DEV\More Tools\BAMGUI\BAMGUI\obj\Debug\BAMGUI.exe
+C:\DEV\More Tools\BAMGUI\BAMGUI\obj\Debug\BAMGUI.pdb
+C:\DEV\More Tools\BAMGUI\BAMGUI\obj\Debug\BAMGUI.csprojAssemblyReference.cache

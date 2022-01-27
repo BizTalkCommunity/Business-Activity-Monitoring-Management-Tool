@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BAMGUI" GeneratedClassName="BAMGUI">
+  <Profiles />
+  <Settings>
+    <Setting Name="BMPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files (x86)\Microsoft BizTalk Server\Tracking\bm.exe</Value>
+    </Setting>
+    <Setting Name="InitialBAMDefinition" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="InitialFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files (x86)\Microsoft BizTalk Server\Tracking</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Db" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BAMPrimaryImport</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
