@@ -1,4 +1,4 @@
-# Business Activity Monitoring Management Tool
+# BizTalk Business Activity Monitoring Management Utility Tool
 Administrators of Business Activity Monitoring (BAM) definitions use the BAM Management utility to manage and maintain all aspects of the BAM infrastructure.
 
 You can use the BAM utility to perform the following tasks:
